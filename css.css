@@ -1,18 +1,18 @@
 .body {
-        width: 50%;
-        margin: 0;
-        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-        
+    width: 50%;
+    margin: 0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    
 }
 .container {
-    width:  1000px;
-    
+width:  1000px;
+
 }
 
 #input {
 width: 350px;
 height: 44px;
-border: 1px solid blue;
+border: 1px solid #0000ff;
 font-size: 30px; 
 outline: none;
 vertical-align: middle;
@@ -27,12 +27,12 @@ font-size: 15px;
 
 }
 .thingstodo {
-    margin-top: 20px;
+margin-top: 20px;
 }
 
 .paragraph-stiling {
 margin: 0;
-    font-size: 20px;    
+font-size: 20px;    
 cursor: pointer;
 
 } 
